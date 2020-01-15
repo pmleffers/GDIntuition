@@ -1,2 +1,2 @@
 # GDIntuition
-This is an excel file that shows off how Gradient Descent works for linear regression.
+This is an excel file I made that shows off intuition of how Gradient Descent works when applied to linear regression.
